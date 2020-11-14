@@ -1,2 +1,2 @@
 Installed chaincodes on peer:
-Package ID: traceic_1:faf2cb2e92afd115c530c1d1e534f7b06a688a0c2c13e4ce5625ef7475223449, Label: traceic_1
+Package ID: traceic_1:4945b7669228d05fc22c4135a1c4322b4f0c0be50ecf0f101b015d09bebffc8f, Label: traceic_1
